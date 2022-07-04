@@ -1,0 +1,207 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@800&display=swap');
+*{padding: 0px; margin: 0px;
+}
+.logo a{
+font-family: 'Saira Semi Condensed', sans-serif;
+font-weight: bold;
+font-size: 35px;
+
+}
+.logo a i{
+color:#fe5200;
+}
+.nav-link:hover{
+  background:#D9DAEF;
+}
+.tml{
+  display: flex;
+}
+.img{
+  position:relative;
+}
+.text{
+  top:25%;
+  left:2%;
+  right: 80%;
+  position:absolute;
+
+}
+.text h1{
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  font-size: 50px;
+  font-family:'Baloo Tammudu 2', cursive;
+}
+.text p{
+  text-align: center;
+  font-weight:  lighter;
+  color: black;
+}
+.button_custom{
+  position: absolute;
+  text-align: center;
+  color:#fe5200;
+  background: white;
+  border-color:#fe5200;
+  padding:3px 25px 3px 25px;
+  border-radius:50px;
+  border-style:solid;
+  left:15%;
+}
+
+.button_custom:hover{
+
+  color:white;
+  background:#fe5200;
+
+}
+
+.f_tittel h2{
+     bottom :50px;
+    font-family:'Baloo Tammudu 2', cursive;
+    text-align: center;
+    font-weight: bold;
+    color:#fe5200;
+    margin: 50px;
+
+}
+
+.card-body ul{
+  display: flex;
+  list-style: none;
+  color:#fe5200;
+}
+.card-body h5{
+  font-family:'Baloo Tammudu 2', cursive;
+
+}
+.button-custom{
+  color:#fe5200;
+  background: white;
+  border-color:#fe5200;
+  padding:3px ;
+  border-radius:7px;
+  border-style: double;
+
+}
+.button-custom:hover{
+  color:white;
+  background:#fe5200;
+  border-color:#fe5200;
+}
+.carousel-caption{
+  top: 50%;
+  font-size: 30px;
+
+}
+.carousel-item:before{
+  position: absolute;
+  content: "";
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background: rgba(0,0,0,.1);
+}
+
+.pd img{
+  width: 60%;
+  height: 60%;
+}
+.pd ul {
+  list-style: none;
+  display: flex;
+  color:#fe5200;
+}
+.pd p{
+  color:#fe5200;
+}
+
+
+
+
+.ap{
+  display: flex;
+}
+
+.allbloge{
+  display: flex;
+  background: #F5F5F5;
+}
+
+
+.p_d{
+  display: flex;
+}
+
+
+.con_f{
+  text-align: center;
+  display:flex;
+}
+
+.con_f h5{
+    font-weight: bold;
+
+}
+.con_f h6{
+  color:#5f5f5f;
+  font-weight: bold;
+}
+.con_f i{
+  color:#fe5200;
+}
+
+.loc{
+  text-align: center;
+  display:flex;
+
+}
+.loc h5{
+  color:#5f5f5f;
+
+}
+.loc i{
+    color:#fe5200;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blogdetels{
+  text-align: center;
+}
+.blogdetels h2{
+  font-family:'Baloo Tammudu 2', cursive;
+  margin:20px;
+
+}
+.blogdetels h4{
+  font-family:'Baloo Tammudu 2', cursive;
+
+}
+.blog_img{
+  display: flex;
+}
+.col-4{
+  padding:50px;
+
+}
